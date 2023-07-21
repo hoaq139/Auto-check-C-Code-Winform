@@ -1,0 +1,41 @@
+﻿{
+  "answer": [
+    {
+      "name": "Q1",
+      "input": ["1.77","2"],
+      "output": [ "9.84","12.56" ],
+      "totalpoint": 2
+    },
+    {
+      "name": "Q2",
+      "input": [ "5,6", "3,9" ],
+      "output": [ "11", "12" ],
+      "totalpoint": 4
+    },
+    {
+      "name": "Q3",
+      "input": [ "Nguyen","Le" ],
+      "output": [ "your name is Nguyen","your name is Le" ],
+      "totalpoint": 2
+    },
+    {
+      "name": "Q4",
+      "input": [ "2","3" ],
+      "output": [ "6","24" ],
+      "totalpoint": 1
+    },
+    {
+      "name": "Q5",
+      "input": [ "5,1,2,4,7,6", "5,1,2,3,4,5" ],
+      "output": [ "6\r\n4\r\n2\r\n", "4\r\n2\r\n" ],
+      "totalpoint": 0.5
+    },
+    {
+      "name": "Q6",
+      "input": [ "5,1,2,4,7,6","5,1,2,3,4,5" ],
+      "output": [ "6", "4\r\n2\r\n" ],
+      "totalpoint": 0.5
+    }
+    
+  ]
+}
